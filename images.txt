@@ -2,3 +2,6 @@ nginx
 kasmweb/nginx:1.25.3
 xhofe/alist:latest
 --platform=linux/arm64 xiaoyaliu/alist
+bitnami/mysql:8.0.37-debian-12-r2
+bitnami/redis:7.2.4-debian-11-r0
+bitnami/nginx:latest
