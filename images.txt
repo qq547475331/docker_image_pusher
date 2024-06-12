@@ -1,1 +1,1 @@
-docker.io/calico/kube-controllers:v3.18.1
+docker.io/coredns/coredns:1.7.1
