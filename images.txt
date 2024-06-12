@@ -1,1 +1,1 @@
-docker.io/coredns/coredns:1.7.1
+docker.io/calico/typha:v3.23.2
