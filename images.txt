@@ -1,1 +1,1 @@
-docker.io/calico/kube-controllers:v3.23.2
+k8s.gcr.io/pause:3.1
