@@ -1,5 +1,5 @@
-docker.io/calico/calico-typha:v3.18.1
-docker.io/calico/calico-cni:v3.18.1
-docker.io/calico/calico-pod2daemon-flexvol:v3.18.1
-docker.io/calico/calico-node:v3.18.1
-docker.io/calico/calico-kube-controllers:v3.18.1
+docker.io/calico/typha:v3.18.1
+docker.io/calico/cni:v3.18.1
+docker.io/calico/-pod2daemon-flexvol:v3.18.1
+docker.io/calico/node:v3.18.1
+docker.io/calico/kube-controllers:v3.18.1
