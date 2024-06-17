@@ -1,1 +1,1 @@
-quay.io/prometheus/prometheus:v2.42.0
+kubesphere/devops-apiserver:ks-v3.4.1
