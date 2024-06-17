@@ -1,1 +1,1 @@
-easzlab/kube-state-metrics:v2.8.2
+easzlab/kube-webhook-certgen:v1.5.1
