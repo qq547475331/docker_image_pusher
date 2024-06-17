@@ -1,1 +1,1 @@
-quay.io/prometheus/alertmanager:v0.25.0
+quay.io/prometheus/node-exporter:v1.5.0
