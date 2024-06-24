@@ -1,1 +1,1 @@
-kubesphere/devops-tools:ks-v3.4.1
+registry.k8s.io/kube-state-metrics/kube-state-metrics:v2.12.0
